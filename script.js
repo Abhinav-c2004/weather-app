@@ -55,7 +55,7 @@ async function getWeather(city) {
         rainpercent = weatherData["probability"]["precipitation"];
         const iconNumber = weatherData["icon"];
 
-        weatherImage.src = `./images/${iconNumber}.png`;
+        weatherImage.src = `https://raw.githubusercontent.com/BiswajitHemram/weather-app/refs/heads/main/images/${iconNumber}.png`;
         currentTemperature.textContent = `${currentTemp}`;
         maxTemperature.textContent = `${maxTemp}`;
         minTemperature.textContent = `${minTemp}`;
