@@ -15,7 +15,7 @@ A simple weather application that allows users to get the current weather condit
 
 ## Demo
 
-[Project Preview](https://biswajithemram.github.io/weather-app/)
+[Project Preview](https://abhinav-c2004.github.io/weather-app/)
 
 
 ## Features
