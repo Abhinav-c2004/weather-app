@@ -36,7 +36,7 @@ A simple weather application that allows users to get the current weather condit
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:BiswajitHemram/weather-app.git
+   git clone git@github.com:Abhinav-c2004/weather-app.git
    cd weather-app
    ```
 
